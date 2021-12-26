@@ -1,2 +1,2 @@
-cc quiz.c -o quiz &&
-./quiz
+ cc quiz.c -o quiz &&
+./quiz 
